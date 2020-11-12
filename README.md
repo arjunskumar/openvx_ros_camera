@@ -28,8 +28,8 @@ LD_LIBRARY_PATH=./lib ./bin/vx_test_conformance
 ```
 
 ## Make Changes in CMakeLists.txt
-```
+
 [L21](https://github.com/arjunskumar/openvx_ros_camera/blob/9cd82caea1390605d346b4537079307d73bfdc2b/CMakeLists.txt#L21)
 
 [L22](https://github.com/arjunskumar/openvx_ros_camera/blob/9cd82caea1390605d346b4537079307d73bfdc2b/CMakeLists.txt#L22)
-```
+
