@@ -1,8 +1,7 @@
 # openvx_ros_camera
 
 <details> 
-  <summary> Install OpenVX 1.3 on Ubuntu 18.04 </summary>
-### Install OpenVX 1.3 on Ubuntu 18.04
+  <summary> ### Install OpenVX 1.3 on Ubuntu 18.04 </summary>
 
 ```
 cd openvx_ws
